@@ -8,3 +8,6 @@ the most relevant features for our models, selecting the most impactful ones for
 normal transactions. This raises an important question: Is this behavior driven by the hyperparameters we used or by the selected features? Further investigation is required to determine the 
 underlying cause.
 The data of this project can be found at : https://www.kaggle.com/code/mendozav/credit-card-fraud-detection-project/input
+
+
+Acknowledgements: I thank Phodiso Maroeshe (https://github.com/phodiso-7?tab=repositories) for his insightful discussions and his contribution in optimising our models.
